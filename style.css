@@ -24,3 +24,4 @@ label{font-size:12px;display:flex;flex-direction:column;gap:3px}small{font-size:
 #ph{position:absolute;top:0;bottom:0;width:2px;background:var(--red);z-index:5;pointer-events:none}
 @media(max-width:800px){.ed main{grid-template-columns:1fr;grid-template-rows:auto 1fr auto;overflow:auto}.ed aside{border:0;max-height:150px}}
 .lg{height:34px;display:block}#tl{height:170px!important}.btn{text-align:center}.hero .lg{height:70px;margin:0 auto 10px}
+#tl{height:230px!important}.mi button{font-size:11px;padding:3px 7px;margin:4px 4px 0 0}#stk,#sfx,#mus{display:flex;flex-wrap:wrap;gap:4px}
