@@ -1,4 +1,4 @@
-# Klipan Studio
+# Clipora
 
 Editor video berbasis browser untuk tim kumparan. Semua proses jalan di perangkat pengguna, jadi video tidak dikirim ke server.
 
@@ -12,6 +12,11 @@ Editor video berbasis browser untuk tim kumparan. Semua proses jalan di perangka
 - Teks (font, latar, animasi), stiker emoji, gambar overlay
 - Track audio sendiri: voice-over, musik, efek suara, dan musik latar bawaan
 - Rekam layar, caption otomatis (Whisper), impor dan ekspor SRT
+- Masker (bulat, kotak, bintang), blend mode, mode muat dengan latar blur, suara cempreng, fade audio
+- Tarik tepi klip untuk trim, simpan otomatis di browser (lanjutkan proyek terakhir)
+- Kurva kecepatan (editor kurva + preset), teks ke suara, bersihkan noise, hapus jeda, hapus kata pengisi
+- Geser teks dan overlay langsung di preview, seret ruler untuk scrub
+- Tab Logo: pasang logo kumparan atau logo lain di pojok pilihan, ukuran dan opacity diatur, otomatis mengikuti durasi video
 - Simpan dan buka proyek (.json; file media perlu diimpor ulang)
 - Ekspor MP4/WebM, 480p sampai 1080p
 

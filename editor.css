@@ -24,3 +24,4 @@ footer{background:var(--pn);margin:0 8px 8px;border-radius:12px;padding:6px;heig
 #ph{position:absolute;top:0;bottom:0;width:2px;background:var(--red);z-index:5;pointer-events:none}
 @media(max-width:900px){main{grid-template-columns:1fr;overflow:auto}footer{height:260px}}
 .blk{touch-action:none;user-select:none}.row{display:flex;flex-wrap:wrap;gap:4px}#stat{max-width:260px}
+.blk{cursor:grab}.blk::before,.blk::after{content:'';position:absolute;top:0;bottom:0;width:6px;background:#fff3}.blk::before{left:0}.blk::after{right:0}
